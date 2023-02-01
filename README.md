@@ -1,4 +1,4 @@
-# Data Cleaning with Pandas - laptops dataset
+# Data Cleaning with Pandas and Numpy - laptops dataset
 
 ## Dataset
 In this guided project, I work with a dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website.
